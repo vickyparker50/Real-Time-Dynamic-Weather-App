@@ -6,7 +6,7 @@ TECHNOLOGIES USED:
 3.JavaScript
 4.Openweathermap.org for free API to generate real time weather information.
 
-screenshots 
+Screenshots 
 
 ![Screenshot (1045)](https://github.com/vickyparker50/Real-Time-Dynamic-Weather-App/assets/120999307/6463aad6-5558-4fc9-9f95-e3b9170ea4b5)
 
